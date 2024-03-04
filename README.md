@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+<img src="[https://github.com/DevAgarwal2/Digital-Society/assets/104455793/73c6ac24-cfec-442d-a462-47fadabd802b](https://github.com/DevAgarwal2/gen_ai_app/assets/104455793/7ac1fe6b-a7df-4c4d-ae4f-b712118f8ce0)" height="400" width="200">
+<img src="https://github.com/DevAgarwal2/gen_ai_app/assets/104455793/626166d4-9c6a-43c6-97a5-4dc0b24e2b28" height="400" width="200">
+<img src="https://github.com/DevAgarwal2/gen_ai_app/assets/104455793/7c591242-a1ad-40b8-867b-3049204c3b7c" height="400" width="200">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
